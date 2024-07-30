@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Web Server Request">0dbc468f8323021045689796feaad3e0</catalog_item>
+        <catalog_variable>IO:3d1b5e0f83e3021045689796feaad3d4</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 23:46:27</sys_created_on>
+        <sys_id>7824aacf83a7021045689796feaad3a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>server_type</sys_name>
+        <sys_package display_value="Server Record Producer" source="x_1369028_server_r">536a74f683e7021045689796feaad32a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Server Record Producer">536a74f683e7021045689796feaad32a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_7824aacf83a7021045689796feaad3a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 23:46:27</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show Physical Server Options">a033220f83a7021045689796feaad31c</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>server_type</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=7824aacf83a7021045689796feaad3a9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Server Record Producer">536a74f683e7021045689796feaad32a</application>
+        <file_path/>
+        <instance_id>d575635e1b098a94c82acb7b234bcb2f</instance_id>
+        <instance_name>dev248607</instance_name>
+        <name>catalog_ui_policy_action_7824aacf83a7021045689796feaad3a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Web Server Request">0dbc468f8323021045689796feaad3e0</catalog_item><catalog_variable>IO:3d1b5e0f83e3021045689796feaad3d4</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-26 23:46:27</sys_created_on><sys_id>7824aacf83a7021045689796feaad3a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>server_type</sys_name><sys_package display_value="Server Record Producer" source="x_1369028_server_r">536a74f683e7021045689796feaad32a</sys_package><sys_policy/><sys_scope display_value="Server Record Producer">536a74f683e7021045689796feaad32a</sys_scope><sys_update_name>catalog_ui_policy_action_7824aacf83a7021045689796feaad3a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-26 23:46:27</sys_updated_on><table/><ui_policy display_value="Show Physical Server Options">a033220f83a7021045689796feaad31c</ui_policy><value/><value_action>ignore</value_action><variable>server_type</variable><variable_set/><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=7824aacf83a7021045689796feaad3a9"/></record_update>]]></payload>
+        <payload_hash>-1386833505</payload_hash>
+        <record_name>server_type</record_name>
+        <reverted_from/>
+        <source>889081f2832b021045689796feaad30e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 23:46:27</sys_created_on>
+        <sys_id>5a24aecf83a7021045689796feaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190f1704e450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 23:46:27</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>5e24aecf04a7021061dd34b24606986c</update_guid>
+        <update_guid_history>5e24aecf04a7021061dd34b24606986c:-1386833505</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="server_type">bdf1878f836f021045689796feaad3c9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-27 01:56:40</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0acf53fc250c42168479439761ff85e4</sys_id>
+        <sys_metadata>7824aacf83a7021045689796feaad3a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>server_type</sys_name>
+        <sys_package display_value="Server Record Producer" source="x_1369028_server_r">536a74f683e7021045689796feaad32a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Server Record Producer">536a74f683e7021045689796feaad32a</sys_scope>
+        <sys_scope_delete display_value="">331588d70d9f419f9c9cbb8b29344bf9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_7824aacf83a7021045689796feaad3a9</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_7824aacf83a7021045689796feaad3a9">5a24aecf83a7021045689796feaad36d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-27 01:56:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
