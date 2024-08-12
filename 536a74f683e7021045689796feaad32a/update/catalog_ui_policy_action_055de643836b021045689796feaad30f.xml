@@ -8,19 +8,19 @@
         <field_message/>
         <field_message_type>none</field_message_type>
         <mandatory>true</mandatory>
-        <order>102</order>
+        <order>104</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-27 00:26:44</sys_created_on>
         <sys_id>055de643836b021045689796feaad30f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>vram</sys_name>
-        <sys_package display_value="Server Record Producer" source="x_1369028_server_r">536a74f683e7021045689796feaad32a</sys_package>
+        <sys_package display_value="Server Record Producer V2" source="x_1369028_server_r">536a74f683e7021045689796feaad32a</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Server Record Producer">536a74f683e7021045689796feaad32a</sys_scope>
+        <sys_scope display_value="Server Record Producer V2">536a74f683e7021045689796feaad32a</sys_scope>
         <sys_update_name>catalog_ui_policy_action_055de643836b021045689796feaad30f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-27 01:51:35</sys_updated_on>
+        <sys_updated_on>2024-07-30 04:28:39</sys_updated_on>
         <table/>
         <ui_policy display_value="Show Virtual Server Options">1b1daacf832b021045689796feaad3d2</ui_policy>
         <value/>
